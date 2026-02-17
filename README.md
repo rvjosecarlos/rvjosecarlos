@@ -34,8 +34,8 @@ Construyendo backend para app de reporte ciudadano (en equipo):
 • **PostgreSQL:** Índices, particiones, enums, search_vector, consultas optimizadas  
 • **PostGIS:** Datos geográficos, ST_X(), ST_Y()  
 • **Autenticación:** OAuth2 con Google (JWT + refresh tokens)  
-• **Arquitectura:** MVC adaptado con capa de servicios y repositorios
-• **IA/ML:** Explorando MCP e integración de modelos remotos (Gemma) y GPT-4.0-mini en su free tier
+• **Arquitectura:** MVC adaptado con capa de servicios y repositorios  
+• **IA/ML:** Explorando MCP e integración de modelos locales (Gemma) y GPT-4.0-mini
 
 ---
 
