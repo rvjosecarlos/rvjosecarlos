@@ -39,6 +39,13 @@ Construyendo backend para app de reporte ciudadano (en equipo):
 
 ---
 
+### 📊 Estadísticas
+
+ [![Carlos's github stats](https://github-readme-stats-three-mu-76.vercel.app/api?username=rvjosecarlos&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+
+[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=rvjosecarlos&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+---
+
 ### 📫 Contacto
 
 📧 rvjosecarlos@gmail.com  
