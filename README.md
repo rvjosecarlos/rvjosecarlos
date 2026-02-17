@@ -12,7 +12,7 @@ Me apasiona construir aplicaciones web con JavaScript/TypeScript y el stack MERN
 
 ### 💻​ Stack tecnológico
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,vite,next,nodejs,expressjs,sequelize,mongodb,postgresql,git,github,vscode&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,vite,next,nodejs,expressjs,sequelize,mongodb,postgresql,git,github,vscode&perline=4)](#)
 
 ---
 
