@@ -24,6 +24,7 @@ Me apasiona construir aplicaciones web con JavaScript/TypeScript y el stack MERN
 | **📋 UpTask** | Administrador de proyectos y tareas con autenticación de usuarios y CRUD completo. | React, Node.js, Express, MongoDB |
 | **❤️ App Presión Arterial** | Registro de lecturas de presión arterial con gráficos históricos. | Javascript Vanilla, HTML, CSS |
 | **🍽️ Quiosco App** | App de pedidos para restaurante con panel de administración y órdenes en tiempo real. | Next.js, TypeScript, Tailwind |
+| **🛒 Aretécne Microcommerce (Hackathon 2025)** |	Plataforma de microcomercio interoperable con integración real de Open Payments (Interledger) y procesamiento de transacciones multi-divisa. |	Node.js, Express, TypeScript, MongoDB, Open Payments (Interledger)|
 
 ---
 
