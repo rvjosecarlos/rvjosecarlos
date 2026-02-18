@@ -1,4 +1,4 @@
-## Carlos | Desarrollador Full Stack JavaScript Jr.
+## Carlos | Desarrollador Full Stack JavaScript.
 
 📍 CDMX, México · ✉️ rvjosecarlos@gmail.com
 
